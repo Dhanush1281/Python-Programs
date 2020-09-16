@@ -1,0 +1,22 @@
+print("Enter SGPA obtained in 8 semesters: ")
+s1 = input()
+s2 = input()
+s3 = input()
+s4 = input()
+s5 = input()
+s6 = input()
+s7 = input()
+s8 = input()
+sem1 = int(s1)
+sem2 = int(s2)
+sem3 = int(s3)
+sem4 = int(s4)
+sem5 = int(s5)
+sem6 = int(s6)
+sem7 = int(s7)
+sem8 = int(s8)
+sum = sem1 + sem2 + sem3 + sem4 + sem5 + sem6 + sem7 + sem8
+cgpa = sum/8;
+percentage = cgpa*9.5;
+print("CGPA = ", cgpa);
+print("Percentage = ", percentage,"%");
