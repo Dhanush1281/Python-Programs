@@ -1,0 +1,5 @@
+#caluclator instead of givign separate deignations for the operators, print("Enter yiur choice of operator)
+would be good enough
+#CGPA you can directly convert the input into interger i.e int(input"S1")
+#Note this is just a Readme and me learning how the pull request works
+
